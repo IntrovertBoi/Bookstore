@@ -1,0 +1,23 @@
+User user ordered a book titled 'Mein Kampf'.
+User user ordered a book titled 'Mein Kampf'.
+User brb was created.
+Admin brb canceled order with order id = 4836.
+User brb was deleted.
+User brb was deleted.
+User mm was deleted.
+User mr was deleted.
+User gomer ordered a book titled 'Mein Kampf'.
+User gomer ordered a book titled 'Mein Kampf'.
+User gomer ordered a book titled 'Mein Kampf'.
+User gomer ordered a book titled 'Mein Kampf'.
+User gomer canceled an order with order id = 3107.
+User gomer canceled an order with order id = 3105.
+Admin admin added a book titled Kapital.
+Admin admin completed order with order id = 1865.
+User user ordered a book titled 'Kapital'.
+Admin admin added 1 books titled 'Kapital'.
+Admin admin removed 1 books titled 'Kapital'.
+Admin admin removed 100 books titled 'Kapital'.
+Admin admin added 100 books titled 'Kapital'.
+Admin admin removed 9 books titled 'Kapital'.
+Admin admin added 10 books titled 'Kapital'.
