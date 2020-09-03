@@ -3,7 +3,7 @@ This is an experimental program for a potential store, created for a school proj
 Andrew Brik
 # Requirements
 1. Web server solution stack package (WampServer, XAMPP, etc.)
-2. Imported local database (import bookstore.sql)
+2. Imported local database (import bookstore_briks.sql)
 3. Java version 8 or newer
 # Installation
 1. Download "Bookstore" folder
