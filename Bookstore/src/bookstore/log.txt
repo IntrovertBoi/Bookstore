@@ -21,3 +21,5 @@ Admin admin removed 100 books titled 'Kapital'.
 Admin admin added 100 books titled 'Kapital'.
 Admin admin removed 9 books titled 'Kapital'.
 Admin admin added 10 books titled 'Kapital'.
+User pop ordered a book titled 'Kapital'.
+User pop canceled an order with order id = 6238.
